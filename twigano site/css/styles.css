@@ -8,3 +8,15 @@
 .social-instagram:hover{
     background-color: #b33574 !important;
 }
+.email {
+    margin-top: 25px;
+    color: black;
+}
+.mailto {
+    color: black;
+}
+.mailto:hover{
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
